@@ -24,7 +24,7 @@ List of common FAQ questions that have come up over the years.
   - Known issue from RAID setup on the new SSDs; being worked on.
 ### Out-of-space errors when installing packages. How do I fix it?
   - Installs use a tempporary (temp) directory limited to 100MB on the host. Packages larger than that limit fail with out-of-space messages.
-  - For the container TMPDIR workaround, see: [Fixing `EnvironmentError - No space left on device`](/advanced-guides/fixing-no-space-temp).
+  - For the container TMPDIR workaround, see: [Fixing `EnvironmentError - No space left on device`](/guides/fixing-no-space-temp).
 
 ---
 
@@ -91,5 +91,5 @@ Node healthy and ready to use.
 ---
 
 !!!info Last Updated:
-January 17, 2026.
+January 31, 2026.
 !!!

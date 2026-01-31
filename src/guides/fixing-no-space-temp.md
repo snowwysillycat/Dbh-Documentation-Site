@@ -1,3 +1,8 @@
+---
+icon: server
+title: No Space Error
+---
+
 # Fixing `EnvironmentError - No space left on device`
 
 This increases your container's TEMP storage; it does **not** add more disk space.
@@ -28,6 +33,8 @@ export TMPDIR=$HOME/TEMP
 > Tip: Splitting up your `requirements.txt` can help if PIP installs are failing with this error.  
 > Tip: Ensure `run.sh` is located where it can reach any file referenced by the Startup Command in this script.
 
+---
 
-> **Last Updated:**  
-> January 16, 2026.
+!!!info Last Updated:
+January 31, 2026.
+!!!

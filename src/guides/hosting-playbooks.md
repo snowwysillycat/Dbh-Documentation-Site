@@ -1,6 +1,11 @@
+---
+icon: checklist
+---
 # Hosting Playbooks
 
-## Node.js / JavaScript apps
+List of different startup guides that you can use for Pterodactyl Servers.
+
+## Node.js / JavaScript Applications:
 1. Create a server with `DBH!server create aio`.
 2. Upload files and add `start.sh`:
 ```bash
@@ -15,7 +20,9 @@ bash
 ```
 4. In Startup, set the command to `bash start.sh`, then restart/start the server. Install packages via `dependencies` in `package.json`.
 
-## Python apps
+---
+
+## Python Applications:
 1. Create a server with `DBH!server create python` or `DBH!server create aio`.
 2. Upload files and add `start.sh`:
 ```bash
@@ -24,9 +31,8 @@ bash
 ```
 3. In Startup, set the command to `bash start.sh`, then restart/start the server.
 
-## Proxied domains not using HTTPS
-- Enable Force HTTPS by unproxying/reproxying or switching Cloudflare from DNS-only to Proxied (orange cloud), then in SSL enable "Always HTTPS."
+---
 
-
-> **Last Updated:**  
-> January 16, 2026.
+!!!info Last Updated:
+January 31, 2026.
+!!!

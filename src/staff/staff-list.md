@@ -27,3 +27,9 @@ The Team behind DanBot Hosting.
 | [!badge variant="primary" text="Administrator"] | **Sarah** (737603315722092544)<br>**AVIXITY** (459025800633647116)<br>**Jonifirebox** (856176853719187506) |
 | [!badge variant="primary" text="Moderator"] | **Akshtt** (1056531806763102218)<br>**Audi** (424206236729344001)<br>**Blxddy** (569352110991343616) |
 | [!badge variant="primary" text="Helper"] | **ItsAsheer** (549647456837828650) |
+
+---
+
+!!!info Last Updated:
+January 31, 2026.
+!!!
