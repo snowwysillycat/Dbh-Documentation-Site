@@ -32,9 +32,18 @@ To easily get started checkout either [#📗╏getting-started](https://discord.
 
 This project was originally made by a bunch of DBH members to let newbies know everything about DanBot Hosting LTD! Which has now been contined by the DanBot Hosting LTD Staff Team.
 
+
 ---
 
-### Credit
+## Legal
+
+[Privacy Policy](https://danbot.host/privacy)
+
+[Terms of Service](https://danbot.host/tos)
+
+---
+
+## Credit
 
 Maintainers: [Jonfirexbox](https://github.com/kyro3400) & [DIBSTER](https://github.com/DEV-DIBSTER)
 
@@ -43,14 +52,6 @@ Original Creator: [Domin](https://github.com/dominnya)
 !!!
 We're counted as a official source of knowledge. Please note that this documentation is still being worked on and things are still changing. Want to contribute to this project? Visit the documentation's [repository](https://github.com/DanBot-Hosting/Documentation-Site) for more information.
 !!!
-
----
-
-# Legal
-
-[Privacy Policy](https://danbot.host/privacy)
-
-[Terms of Service](https://danbot.host/tos)
 
 ---
 
