@@ -21,7 +21,7 @@ For faster support for **anything other then ban appeals**, we always recommend 
 | **DIBSTER Contact** | `dibster@danbot.host` | [!badge variant="primary" text="Active"] |
 | **AVIXITY Contact** | `avixityyt@gmail.com` | [!badge variant="primary" text="Active"] |
 | **Donation Support** | `donate@danbot.host` | [!badge variant="danger" text="No Longer in Use"] |
-| **ASN Contact** | `asn@danbot.host` | [!badge variant="danger" text="No Longer in Use"] |
+| **ASN Contact** | `asn@danbot.host` | [!badge variant="primary" text="Active"] |
 | **Abuse Report** | `abuse@danbot.host` | [!badge variant="primary" text="Active"] |
 | **Ban Appeals** | `appeals@danbot.host` | [!badge variant="primary" text="Active"] |
 
