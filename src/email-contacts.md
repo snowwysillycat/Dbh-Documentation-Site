@@ -17,11 +17,11 @@ For faster support for **anything other then ban appeals**, we always recommend 
 
 | Purpose | Email Address | Status |
 | :--- | :--- | :--- |
-| **ASN & Dan Contact** | `dan@danbot.host` | [!badge variant="primary" text="Active"] |
+| **Dan Contact** | `dan@danbot.host` | [!badge variant="primary" text="Active"] |
 | **DIBSTER Contact** | `dibster@danbot.host` | [!badge variant="primary" text="Active"] |
 | **AVIXITY Contact** | `avixityyt@gmail.com` | [!badge variant="primary" text="Active"] |
 | **Donation Support** | `donate@danbot.host` | [!badge variant="danger" text="No Longer in Use"] |
-| **General Support** | `support@danbot.host` | [!badge variant="danger" text="No Longer in Use"] |
+| **ASN Contact** | `asn@danbot.host` | [!badge variant="danger" text="No Longer in Use"] |
 | **Abuse Report** | `abuse@danbot.host` | [!badge variant="primary" text="Active"] |
 | **Ban Appeals** | `appeals@danbot.host` | [!badge variant="primary" text="Active"] |
 
@@ -35,5 +35,5 @@ For faster support for **anything other then ban appeals**, we always recommend 
 ---
 
 !!!info Last Updated:
-January 17, 2026.
+March 4, 2026.
 !!!
