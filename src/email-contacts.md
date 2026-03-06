@@ -28,9 +28,9 @@ For faster support for **anything other then ban appeals**, we always recommend 
 
 | Purpose | Email Address | Status |
 | :--- | :--- | :--- |
-| **Snowwy Contact** | `Snowwy@danbot.host` | [!badge variant="primary" text="Active"] |
+| **Snowwy Contact** | `snowwy@danbot.host` | [!badge variant="primary" text="Active"] |
 | **Tara Contact** | `tara@danbot.host` | [!badge variant="primary" text="Active"] |
-| **AVIXITY Contact** | `avixityyt@gmail.com` | [!badge variant="primary" text="Active"] |
+| **AVIXITY Contact** | `avixity@danbot.host` | [!badge variant="primary" text="Active"] |
 | **Audi Support** | `audi@danbot.host` | [!badge variant="primary" text="Active"] |
 
 
